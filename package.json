@@ -1,10 +1,10 @@
 {
-    "name": "minimal-reactjs-boilerplate",
+    "name": "reactjs-web3-starter",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "webpack-dev-server --mode=development --open --hot",
+        "start": "webpack-dev-server --mode=development --open --hot --port 3000",
         "build": "webpack --mode=production"
     },
     "keywords": [],
@@ -35,6 +35,6 @@
         ]
     },
     "bin": {
-        "minimal-reactjs-boilerplate": "./bin/start.js"
+        "reactjs-web3-starter": "./bin/start.js"
     }
 }
