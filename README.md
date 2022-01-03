@@ -1,1 +1,1 @@
-# minimal-reactjs-boilerplate# reactjs-web3-starter
+# reactjs-web3-starter
